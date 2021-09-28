@@ -17,7 +17,7 @@ The dataset used in this project is a [Data World dataset](https://data.world/pr
 | 4 |Flask | v  |   app.py  |
 | 5 |Deployment on GCP   | x  |      |
 | 6 |Tableau Dashboard  | x  |      |
-| 7 |Presentation   | v  |  E-commerce Recommendation System  |
+| 7 |Presentation   | v  |  E-commerce Recommendation System.pdf  |
 
   
 ## Find more about my work
