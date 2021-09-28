@@ -5,9 +5,9 @@ they have in hand and boost their sales revenues.This Comes with a Flask and htm
 
 
 ## Dataset
-The dataset used in this project is a [Data World dataset](https://www.kaggle.com/zaurbegiev/my-dataset?select=credit_train.csv) with 10K different products.
+The dataset used in this project is a [Data World dataset](https://data.world/promptcloud/fashion-products-on-amazon-com) with 10K different products.
 
-  ## Content
+## Content
 
 | |Document | Progress | Links |
 | :---   | :--- | :---  |:---  |
